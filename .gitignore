@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Database
+db.sqlite3
+
+# ChromeDriver
+Driver/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
